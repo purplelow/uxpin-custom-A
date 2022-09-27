@@ -113,5 +113,5 @@ module.exports = {
     wrapper: 'src/Wrapper/UXPinWrapper.js',
     webpackConfig: 'webpack.config.js',
   },
-  name: "Material Design UI"
+  name: "Drim UI A"
 };
