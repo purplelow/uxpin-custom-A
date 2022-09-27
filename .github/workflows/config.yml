@@ -21,4 +21,4 @@ jobs:
       - name: Push To UXpin
         run: yarn push
         env:
-          UXPIN_AUTH_TOKEN: ${{ secrets.6f3cad99cc022c0df049cff125d5c0104df89f2a }}
+          UXPIN_AUTH_TOKEN: ${{ secrets.UXPIN_AUTH_TOKEN }}
