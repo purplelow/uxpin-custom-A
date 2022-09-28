@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "push": "uxpin-merge push",
+    "push": "uxpin-merge push --token 6f3cad99cc022c0df049cff125d5c0104df89f2a",
     "start": "uxpin-merge --disable-tunneling"
   },
   "author": "",
